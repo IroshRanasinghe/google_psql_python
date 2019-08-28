@@ -1,0 +1,993 @@
+{
+  "html_attributions": [],
+  "next_page_token": "CpQCBQEAAJlVhVGgeKIZICl4hgpa30Fg5h2k0l-6A-UJ2FcHrDEBlMAc_bMBlTmekbWx24nJzkMYRYPQRSKvu6qMn0tVHYJyafzcYpElf1JczWM_PNCxKwd0Me6TKz2e0eG_iqg4Jb2qAyJPo92PT2nZ8zZTcdG0muMRqcs8bbEUJ_Me37CxTSEwdrp9WzF15tJ0N1ha71YbI8obQK9q8uAkZjyTBpURmk0zdl2GzU9su0zlS-j7-K6uPVjKoSbwBoWLiwbygVrxxlUDJ95EBY6COaCg0p2l7Cg9Qwtq1RfjTR1PaeR7EpSWnCpgg27n5GBBHFaSneLt-lBLdBWriG-ZqHruXms3m_-lRN87956P7gtK1uvnEhCHNu47gfWW9q9BNZpvlGKQGhQUSugkSKLzhp_IiNK0pbQRTnD8Zw",
+  "results": [
+    {
+      "formatted_address": "314/1/A, Kollupitiya Road, 03 Marine Drive, Colombo, Sri Lanka",
+      "geometry": {
+        "location": {
+          "lat": 6.908979299999999,
+          "lng": 79.8490525
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.910318029892721,
+            "lng": 79.85036092989272
+          },
+          "southwest": {
+            "lat": 6.907618370107278,
+            "lng": 79.84766127010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "e38670bfd5f3e52009e1ada30e51b28fd79688b9",
+      "name": "Curry Pot",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102762243020274206743/photos\">Sonal Rathnayake</a>"
+          ],
+          "photo_reference": "CmRaAAAA19BB3ax8u-XTIY4D7-PMBJpXZD1Riag5QNrx9CTsq0twU1IAxf2n7ZUckHipUwKAQSJFAdqQF0fqy2tAZscTWaF46Yy4t_seLPnzAZ8s2RCYPjvA6UWAFhQ-47A8JMy8EhBRgoGx2K052CdgCpJOHOuJGhQeTdgJ4v2fkN6lYq6Ipn5FkILuew",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ8Vg_IkNZ4joRuDXFGH11a2A",
+      "plus_code": {
+        "compound_code": "WR5X+HJ Colombo",
+        "global_code": "6JRXWR5X+HJ"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJ8Vg_IkNZ4joRuDXFGH11a2A",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 248
+    },
+    {
+      "formatted_address": "328 A2, Colombo 00300, Sri Lanka",
+      "geometry": {
+        "location": {
+          "lat": 6.9085354,
+          "lng": 79.8502823
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.909955329892721,
+            "lng": 79.85177157989273
+          },
+          "southwest": {
+            "lat": 6.907255670107277,
+            "lng": 79.84907192010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "c5c8e4cc9c395822ecdc1a65b4afd7e8195e6098",
+      "name": "Palmyrah Restaurant",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114605045006240503354/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAzmnpQKJuuButsiI5X-vVTTfwhsRLOiYSyaE_Vkg4pJJaifHF--caT5NxDg26ftOnUzkq7OqvWSuafuojF-IZ3GcuQoaCPvzK1Xtpu0Jz3N6PQwv6K2wA_62Rhsk7MIdBEhAYtz9cC0jylwVHjolm6FF4GhQoLDZeRHzkqdmlblcPGD4_S5dNRQ",
+          "width": 3968
+        }
+      ],
+      "place_id": "ChIJZ3JXNF1Z4joRj8Nqt2d9Vpc",
+      "plus_code": {
+        "compound_code": "WV52+C4 Colombo",
+        "global_code": "6JRXWV52+C4"
+      },
+      "price_level": 3,
+      "rating": 4.4,
+      "reference": "ChIJZ3JXNF1Z4joRj8Nqt2d9Vpc",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 309
+    },
+    {
+      "formatted_address": "Colombo3, 77 Galle Rd, Colombo 00300, Sri Lanka",
+      "geometry": {
+        "location": {
+          "lat": 6.9180438,
+          "lng": 79.84860359999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.919440529892721,
+            "lng": 79.85030217989272
+          },
+          "southwest": {
+            "lat": 6.916740870107277,
+            "lng": 79.84760252010729
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "51f7da3cb68640bca2b142eb239f98e63909c008",
+      "name": "Nuga Gama",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109571250522981416300/photos\">Yash Maheshwari</a>"
+          ],
+          "photo_reference": "CmRaAAAA5zjaSPwmrTyOPPyCPDy9lhZu6KMVV2ejrN0Nt4dZouxvSD5G__IPABBcWabIFMaUB8qA18Hgj2C93QyVG5mfDZI4hG64KtEdsdWC1g6nEGoST0OdOTb835Ga5DscI0TWEhDKbCOSZ3I9_iNumvVQ-Q42GhR7YnYGSeSR_HFGyrPkQBLAQk1ixA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJk41Yi0BZ4joRRrxDNNN5THc",
+      "plus_code": {
+        "compound_code": "WR9X+6C Colombo",
+        "global_code": "6JRXWR9X+6C"
+      },
+      "price_level": 3,
+      "rating": 4.5,
+      "reference": "ChIJk41Yi0BZ4joRRrxDNNN5THc",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 381
+    },
+    {
+      "formatted_address": "77 A2, Colombo 00300, Sri Lanka",
+      "geometry": {
+        "location": {
+          "lat": 6.918262500000001,
+          "lng": 79.8490328
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.919700429892722,
+            "lng": 79.85060207989272
+          },
+          "southwest": {
+            "lat": 6.917000770107278,
+            "lng": 79.84790242010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "bf9637473c485694453c215245f70647be122735",
+      "name": "The Lagoon",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113735127186633019689/photos\">Vuthirak Vanny</a>"
+          ],
+          "photo_reference": "CmRZAAAABcyQLhoVqnQZOfebPv4b9e0tbWhMHmefYtuUOLSIGEGnwW4VXUJBEzblq4ZeCGmLl_mWEV_soPpuNKLITjFjEv6JKbC1ZiTCVDQdEVb6Za8yGHXLSEM9riOck8bzpcVKEhA54EzR8ZrLU40bN8TjCsPCGhRZE6R1o8AGnT2W0Bew96ef0RHYqA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJB5a-hF1Z4joRCPgj2vPUn4A",
+      "plus_code": {
+        "compound_code": "WR9X+8J Colombo",
+        "global_code": "6JRXWR9X+8J"
+      },
+      "price_level": 3,
+      "rating": 4.5,
+      "reference": "ChIJB5a-hF1Z4joRCPgj2vPUn4A",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 955
+    },
+    {
+      "formatted_address": "Liberty Arcade, 282 R. A. De Mel Mawatha, Colombo, Sri Lanka",
+      "geometry": {
+        "location": {
+          "lat": 6.910161899999999,
+          "lng": 79.8519963
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.911756579892721,
+            "lng": 79.85336217989271
+          },
+          "southwest": {
+            "lat": 6.909056920107277,
+            "lng": 79.85066252010726
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "e1a58d56053dedc8ef746110483915241ca57e1e",
+      "name": "Raja Bojun Restaurant",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104916435798781175451/photos\">Charitha Ratnayaka</a>"
+          ],
+          "photo_reference": "CmRaAAAA1IvIb8YzpKqBJ1ZwJTgSM1fcDgYHo_Rjeu9r3U6QqZvN8-nHP357GuUgnGtTIDBTI0XaQf83RRrJqeewNShWc_EDqJbB4ppXds4rmzoDgcyjrCiXRFfviHDDZzc1rdZ5EhA6nMZG4lNjrxZptvkCpKoKGhTg-R00jofmg5I60hzA2i6j73fbYg",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJ8YoF20BZ4joRXeHKRTzNPPs",
+      "plus_code": {
+        "compound_code": "WV62+3Q Colombo",
+        "global_code": "6JRXWV62+3Q"
+      },
+      "price_level": 2,
+      "rating": 4,
+      "reference": "ChIJ8YoF20BZ4joRXeHKRTzNPPs",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 903
+    },
+    {
+      "formatted_address": "No 25, Clifford Avenue, R. A. De Mel Mawatha, 00300, Sri Lanka",
+      "geometry": {
+        "location": {
+          "lat": 6.9103685,
+          "lng": 79.852406
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.911660829892723,
+            "lng": 79.85360827989271
+          },
+          "southwest": {
+            "lat": 6.908961170107279,
+            "lng": 79.85090862010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "1ef695c5cc57a619ad0b5d9558b85d15d5cdefd6",
+      "name": "Curry Pot Restaurant",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 494,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111506595110260643942/photos\">Curry Pot Restaurant</a>"
+          ],
+          "photo_reference": "CmRaAAAAaBr8SkmhWZAYwjV2yOOyyAEusXKb34V62e18fC679tYsNiX-feiluPJeu6FW95UPi4UbkdiL8Q1wPlt7MyIvz7sXARUta32f-nj9VQ8gJ-SLz8QWyITxbbcJYeXA8lDREhChMACXKMT16nZcm5M1s9r9GhQFaWs3TqptYi_jfGjxZkWtmF1YVQ",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJEZdcGENZ4joRi0MQeKvlVk0",
+      "plus_code": {
+        "compound_code": "WV62+4X Colombo",
+        "global_code": "6JRXWV62+4X"
+      },
+      "price_level": 1,
+      "rating": 4.2,
+      "reference": "ChIJEZdcGENZ4joRi0MQeKvlVk0",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 479
+    },
+    {
+      "formatted_address": "255 R. A. De Mel Mawatha, Colombo 00700, Sri Lanka",
+      "geometry": {
+        "location": {
+          "lat": 6.9116813,
+          "lng": 79.8513382
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.913070979892722,
+            "lng": 79.85278867989273
+          },
+          "southwest": {
+            "lat": 6.910371320107278,
+            "lng": 79.85008902010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "16358493a4547858dd46dbf3f36b4fc03b19eb2c",
+      "name": "Kumar's Sri lankan Hut",
+      "photos": [
+        {
+          "height": 4128,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107098365346592443475/photos\">Jothi Prakash</a>"
+          ],
+          "photo_reference": "CmRaAAAAzjWACW8AX66CM-torPZrbNA6GDLpPtrffPbZiRUnV_tq3pnoBEE1AnCjKg-XcSq-oPtsTiHyTUEgse3CBWHIiQ77AZqpqnuFPdqvZTpqnkdvnRIOYM20mx6bF0rAEsqUEhDZJpZs1FHdbOGt2XlzXuJHGhQOdWFDuw0T_EsYtnWtHUMRtT416A",
+          "width": 3096
+        }
+      ],
+      "place_id": "ChIJmX8oY0JZ4joR8z-acfpRQPM",
+      "plus_code": {
+        "compound_code": "WV62+MG Colombo",
+        "global_code": "6JRXWV62+MG"
+      },
+      "rating": 3.8,
+      "reference": "ChIJmX8oY0JZ4joR8z-acfpRQPM",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6
+    },
+    {
+      "formatted_address": "2 Alfred House Rd, Colombo 00300, Sri Lanka",
+      "geometry": {
+        "location": {
+          "lat": 6.898885099999999,
+          "lng": 79.85513379999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.900238679892722,
+            "lng": 79.85649542989273
+          },
+          "southwest": {
+            "lat": 6.897539020107279,
+            "lng": 79.85379577010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "27df0b7ce5bbf6029e02ca351c3f39ae31c1430f",
+      "name": "The Gallery Caf\u00e9",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108471253789497954765/photos\">Peter Gillard</a>"
+          ],
+          "photo_reference": "CmRaAAAA_RW2r8R7JOGgvBz-gcNqUhwWXdhFVtVZAEUMm3Up3vNCNdPDdpgre4FM-Q4o0DsnsSj6NCi8YQyiVxXjzJF5nrPj1liREAjRyKuJOTe_EDhtHVDacn9Ui6hRURScdB6iEhCNE_c5PqN6NrvL3FZ2gu2_GhQKTQ5Jb8wf8twoml_cSYRiN53B0g",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJCbyzLGBZ4joRdPY4QTkZdGc",
+      "plus_code": {
+        "compound_code": "VVX4+H3 Colombo",
+        "global_code": "6JRXVVX4+H3"
+      },
+      "price_level": 3,
+      "rating": 4.4,
+      "reference": "ChIJCbyzLGBZ4joRdPY4QTkZdGc",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1215
+    },
+    {
+      "formatted_address": "201 Muhandiram's Rd, Colombo 00300, Sri Lanka",
+      "geometry": {
+        "location": {
+          "lat": 6.9147291,
+          "lng": 79.8529616
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.916047429892721,
+            "lng": 79.85431577989273
+          },
+          "southwest": {
+            "lat": 6.913347770107277,
+            "lng": 79.85161612010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "b347cfce24ee8523a1128b6430b1a2bd25a949c9",
+      "name": "Praneetha Foods - \u0d9c\u0db8\u0dda \u0db6\u0dad\u0dca \u0d9a\u0da9\u0dda",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110024307604755043539/photos\">Udara Chinthana</a>"
+          ],
+          "photo_reference": "CmRaAAAAVL3OlQx4-J0kT3WDMIiMwfILR6BdecoEafLbqp0e505ooYjbTjpD_hJBwEphdZPY8W-KKVmU0De5BTp0eXPXBU6nCIKBpaJegPADO-V-RgJAOB77EK36hGjUvO6HnUS3EhA1T6tQ6Vz7lm0vzy_tvBG8GhRBuLTtcQFuMmjhZk9JkWnKJ7lmRA",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJkZtJempZ4joRrZRgHUiNaQ0",
+      "plus_code": {
+        "compound_code": "WV73+V5 Colombo",
+        "global_code": "6JRXWV73+V5"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJkZtJempZ4joRrZRgHUiNaQ0",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 765
+    },
+    {
+      "formatted_address": "Colombo, Sri Lanka",
+      "geometry": {
+        "location": {
+          "lat": 6.9109564,
+          "lng": 79.84868980000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.912315579892721,
+            "lng": 79.85003682989272
+          },
+          "southwest": {
+            "lat": 6.909615920107277,
+            "lng": 79.84733717010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "184d04462524eb6f897f6ef0c36244fae33a2b85",
+      "name": "Lakmali Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117100270402561834490/photos\">Sippay</a>"
+          ],
+          "photo_reference": "CmRaAAAAv9hU5qvJMZbuDhtBLakBfV-fI-NW2ct22qS8zBB5_-OUfmfP2SvgwKjPr_xBz2_m3sEnl4RUAPAFdqfNg2w5VMh1lr67o4GDxt5RgMw8Pydnd6NdMYhyiLKZGrfUjS1cEhAAv1YtgnSKyYQWQoFeYQT_GhS5QngtZQuKy9PGfvkRiwMGkMfa3w",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ_bKgBUNZ4joRemQesxq_TD8",
+      "plus_code": {
+        "compound_code": "WR6X+9F Colombo",
+        "global_code": "6JRXWR6X+9F"
+      },
+      "rating": 4.3,
+      "reference": "ChIJ_bKgBUNZ4joRemQesxq_TD8",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4
+    },
+    {
+      "formatted_address": "720 Galle Rd, Colombo, Sri Lanka",
+      "geometry": {
+        "location": {
+          "lat": 6.8961377,
+          "lng": 79.8544575
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.897523079892721,
+            "lng": 79.85589787989272
+          },
+          "southwest": {
+            "lat": 6.894823420107278,
+            "lng": 79.85319822010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "912745e82e4c93cfabadc54e03d6c02f36e65c5c",
+      "name": "New Banana Leaf Restaurant",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3855,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108327163286819967708/photos\">Taz Mt</a>"
+          ],
+          "photo_reference": "CmRaAAAAsZdskrzJ31pIWQk4PZiYm7wQHorYDF2usUdhA9a0d5yzTYA4IJ5zfMXBfT_Ia7MHYoP4UVYZC4E0TTUrhfFfTUBaxoGd8VaDPol7L9Ge5HK8Hjop99w1BqlBoaRQzDrFEhCbSB5Ugfn5CYKTafF20e_gGhQLcUxnUczmhIo6TxszVDoRN4rgWA",
+          "width": 5782
+        }
+      ],
+      "place_id": "ChIJd7XXrt9b4joRwWc0Q_6Tckg",
+      "plus_code": {
+        "compound_code": "VVW3+FQ Colombo",
+        "global_code": "6JRXVVW3+FQ"
+      },
+      "price_level": 2,
+      "rating": 4,
+      "reference": "ChIJd7XXrt9b4joRwWc0Q_6Tckg",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1016
+    },
+    {
+      "formatted_address": "75 Galle Rd, Colombo 00300, Sri Lanka",
+      "geometry": {
+        "location": {
+          "lat": 6.9181781,
+          "lng": 79.8487652
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.919090829892721,
+            "lng": 79.84963487989273
+          },
+          "southwest": {
+            "lat": 6.916391170107278,
+            "lng": 79.84693522010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "3e37c6e3b1bb9e0345942c720b849c8338b3e3ff",
+      "name": "Chutneys",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114967513522975352239/photos\">Abdulla Muraffik</a>"
+          ],
+          "photo_reference": "CmRaAAAAKQgm1vnBPrSsPB1ETkzJ9kNWMGMzX4c-ZxjRLB0CznRDd0NeoUf33QJfmW4f16XWDuJJ6ECtriUKPnMIOsGI23yhC9RROfgn_XGFU74A-xy9_P_M5fwt2AZr7-RIyGCNEhD1RMkBcLC58D8qUknAuqD_GhSYh449pjTwrO7v3hvhB-QZfbCGLQ",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJt9_Nu0BZ4joRmOM6zy0FTcs",
+      "plus_code": {
+        "compound_code": "WR9X+7G Colombo",
+        "global_code": "6JRXWR9X+7G"
+      },
+      "price_level": 3,
+      "rating": 4.5,
+      "reference": "ChIJt9_Nu0BZ4joRmOM6zy0FTcs",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 486
+    },
+    {
+      "formatted_address": "Sellamuttu Ave, Colombo 00300, Sri Lanka",
+      "geometry": {
+        "location": {
+          "lat": 6.908461699999999,
+          "lng": 79.8504379
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.909913429892722,
+            "lng": 79.85175222989272
+          },
+          "southwest": {
+            "lat": 6.907213770107278,
+            "lng": 79.84905257010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "249a5a79849a454b296098c86c91a270d132984e",
+      "name": "Palmyrah",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4128,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109161430897978914925/photos\">Kanesh Balan</a>"
+          ],
+          "photo_reference": "CmRaAAAA29AlmFCfwRUYYHvjWblFnDGcr3qiOVN_XQW7PMxyP1a0S1e2Ow3jUHGjnjHpjh79s6d-8ArH4eAEsgFXyhRE6XuGWkKP-sf8I46mR4DRnHvBdgsYYzl-3gcm00cunBtzEhCZPJd6YoJfZlhz7I9r8GudGhReT1aRiy3pZhT6qTUqDSniA0Rxag",
+          "width": 2322
+        }
+      ],
+      "place_id": "ChIJTR0c7ihZ4joRslNvnsaiODc",
+      "plus_code": {
+        "compound_code": "WV52+95 Colombo",
+        "global_code": "6JRXWV52+95"
+      },
+      "rating": 4,
+      "reference": "ChIJTR0c7ihZ4joRslNvnsaiODc",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4
+    },
+    {
+      "formatted_address": "146 Galle Rd, Colombo 00300, Sri Lanka",
+      "geometry": {
+        "location": {
+          "lat": 6.901995599999999,
+          "lng": 79.8529119
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.903328279892722,
+            "lng": 79.85420792989274
+          },
+          "southwest": {
+            "lat": 6.900628620107278,
+            "lng": 79.85150827010729
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "3817ae504908762d3b2a0414b6471b7882ff93a9",
+      "name": "Hotel De Pilawoos",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117639500222372336897/photos\">Thilok Gunawardena</a>"
+          ],
+          "photo_reference": "CmRaAAAAjE_LKG7A03LM6f2SbQgF-cdE7TLeh5-byaewr63oarQuV2_lZ_hbSbhlrLjp7UhTmlxWmUOerURam7LL4EucYtZ_p0kyBzWQwzdDSCOBy4hKnCxULBWQEJlWB4WTmg8REhDSUYbM2Zlztqtlv7FihZllGhR4ikRuhqEtCwVVqxnm9Itcul0SXQ",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJNUrVlmBZ4joRtIctzbkO_Ic",
+      "plus_code": {
+        "compound_code": "WV23+Q5 Colombo",
+        "global_code": "6JRXWV23+Q5"
+      },
+      "price_level": 2,
+      "rating": 3.6,
+      "reference": "ChIJNUrVlmBZ4joRtIctzbkO_Ic",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 857
+    },
+    {
+      "formatted_address": "Colombo, Sri Lanka",
+      "geometry": {
+        "location": {
+          "lat": 6.9077815,
+          "lng": 79.8507376
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.909150379892721,
+            "lng": 79.85208227989271
+          },
+          "southwest": {
+            "lat": 6.906450720107277,
+            "lng": 79.84938262010726
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "168ba0cc05691703e8db5c3101e0df13132bf7e6",
+      "name": "Awanhala",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115029514009065270352/photos\">Praneeth Nilanga Peiris</a>"
+          ],
+          "photo_reference": "CmRaAAAAFcV3961BKZW0xWoAriAVR2jZWDA_L1SzPp0Kt8u3sxx9bbqWFFq5f5rCp4JGUOhAhMu6ZlbcH03ZRCCVr8J1D2jtGvq6FMuuEDYZNEHtcZ7iP79r-JFxv_WPady_kB9SEhBwXPHTjpmoV-NAJWTyBld2GhT2Rts-Qp2wgCZkBwkrRYbLkZoxVw",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJn6y9QF1Z4joRJySoSUPiKGo",
+      "plus_code": {
+        "compound_code": "WV52+47 Colombo",
+        "global_code": "6JRXWV52+47"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJn6y9QF1Z4joRJySoSUPiKGo",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 37
+    },
+    {
+      "formatted_address": "Colombo, Sri Lanka",
+      "geometry": {
+        "location": {
+          "lat": 6.9106019,
+          "lng": 79.8495705
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.912009579892722,
+            "lng": 79.85090467989274
+          },
+          "southwest": {
+            "lat": 6.909309920107278,
+            "lng": 79.84820502010729
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "8363556f2cdb60a1092ac7ad8e972517d1e4538c",
+      "name": "Nelum Kole Restaurant",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116920939085998927302/photos\">Priyantha Wimalaguna</a>"
+          ],
+          "photo_reference": "CmRaAAAAV8lxjBAjGiY93nDbfLH97cc65VA7HfT8xl8v66lwSJXyAiVzSi80mfuB2CNQI2zUCnIUeXF0wEjPYupqCJQi13jU5O3BszSLIswRsCrF2bjXnodOQMYAVBzQBIlz8_CBEhAewvxxsOVg36Nbbg29aJUNGhRfJsXaaUMpAQO_Q3hJQbcirpt8QQ",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJ07NL4kJZ4joR3lZfSTLyMJE",
+      "plus_code": {
+        "compound_code": "WR6X+6R Colombo",
+        "global_code": "6JRXWR6X+6R"
+      },
+      "rating": 3.6,
+      "reference": "ChIJ07NL4kJZ4joR3lZfSTLyMJE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 29
+    },
+    {
+      "formatted_address": "77 Galle Rd, Colombo, Sri Lanka",
+      "geometry": {
+        "location": {
+          "lat": 6.918668500000001,
+          "lng": 79.8486844
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.920055429892722,
+            "lng": 79.84981862989272
+          },
+          "southwest": {
+            "lat": 6.917355770107278,
+            "lng": 79.84711897010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "80ae7ac83607e16aba14f3917de875dbed69dd1c",
+      "name": "Taprobane",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102092706710981829416/photos\">Sparky T</a>"
+          ],
+          "photo_reference": "CmRaAAAAWzTKMaC5Oh3Usd049V5qmU2avPgBiXVONgdqjk820NxsRU5tA5hqbl-Xza8E6MMQPR17ubhbNQSeHk5Vl99TIQX8N52tATnr7KanRRt5hRvlnJerDHDC_nFxHvqG_7KwEhBz-7zbLSWy7ariO5DxVdtlGhQvpS13T_BDU56gN6fcYQPsAYML-A",
+          "width": 5504
+        }
+      ],
+      "place_id": "ChIJAykojUBZ4joRkoMNWN55pBM",
+      "plus_code": {
+        "compound_code": "WR9X+FF Colombo",
+        "global_code": "6JRXWR9X+FF"
+      },
+      "price_level": 3,
+      "rating": 4.5,
+      "reference": "ChIJAykojUBZ4joRkoMNWN55pBM",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 447
+    },
+    {
+      "formatted_address": "1, Colombo 00200, Sri Lanka",
+      "geometry": {
+        "location": {
+          "lat": 6.9281446,
+          "lng": 79.8446312
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.929480229892722,
+            "lng": 79.84589887989273
+          },
+          "southwest": {
+            "lat": 6.926780570107278,
+            "lng": 79.84319922010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "83ad7ed7974a897afb331e75a5a634e12fad3a99",
+      "name": "Kaema Sutra",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117808223887946213346/photos\">Tharindu Punchihewa</a>"
+          ],
+          "photo_reference": "CmRaAAAAg4u3VeBiPExd-7xpqpY8C_sIY6ljWJU6do0Oek9-8LbmNWa417n_jtm0mob_cZrNCXrtGt0kKsn9YgslFyhBQaHbpJY7L2NbGrSzWj9i4fCVQ1r1V7xn-WdvLt_G2HyQEhCSCpdGuXmcB4m10cTyaQaQGhSLR7QV3D_HhwQ0TXzeMOLv3JH4_g",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ8WxNHnxZ4joR1nOj6aB5Yi4",
+      "plus_code": {
+        "compound_code": "WRHV+7V Colombo",
+        "global_code": "6JRXWRHV+7V"
+      },
+      "rating": 4.3,
+      "reference": "ChIJ8WxNHnxZ4joR1nOj6aB5Yi4",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 187
+    },
+    {
+      "formatted_address": "65 Dr C.W.W Kannangara Mawatha, Colombo 00700, Sri Lanka",
+      "geometry": {
+        "location": {
+          "lat": 6.9126126,
+          "lng": 79.8650048
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.913988529892722,
+            "lng": 79.86629797989272
+          },
+          "southwest": {
+            "lat": 6.911288870107278,
+            "lng": 79.86359832010729
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "870928ce9bd59b7170ddcbb6a8c11a08f65e9487",
+      "name": "Upali's by Nawaloka",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117288961303500310331/photos\">Thuy Thanh Le</a>"
+          ],
+          "photo_reference": "CmRaAAAArho-WRewMus-5kruYA6JY50jfan6jCxKYaUsW0BnYSYrNE02rmiebhcGwNakN57Uwp0u3rCOV8BPdf5jnzIvRR0AJxDqJ6wol0opWRA8Rq2yITFKR9jHmkGQdphbg4JEEhC4FQk3b2ZADSV7oL2CCSd9GhQiGcmDT-RVhLqOg677OhepMUIEvw",
+          "width": 2340
+        }
+      ],
+      "place_id": "ChIJ2QFwuXFZ4joR1c0uu0V79mI",
+      "plus_code": {
+        "compound_code": "WV78+22 Colombo",
+        "global_code": "6JRXWV78+22"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJ2QFwuXFZ4joR1c0uu0V79mI",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2516
+    },
+    {
+      "formatted_address": "Crescat Boulevard, Galle Rd, Colombo 00300, Sri Lanka",
+      "geometry": {
+        "location": {
+          "lat": 6.917077,
+          "lng": 79.8482138
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.918393929892722,
+            "lng": 79.84945847989272
+          },
+          "southwest": {
+            "lat": 6.915694270107278,
+            "lng": 79.84675882010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "55d07455bff2e14704b912882f3e45e630006eed",
+      "name": "Clay Pot O Curry",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102023089155848960869/photos\">\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0414\u043e\u0440\u043e\u043d\u0438\u043d</a>"
+          ],
+          "photo_reference": "CmRaAAAAJr2HzDjZiilmgGkXAXfHUUz6yT_3HnJK7ODPrnpy-X7-_zb0ITh3fdwt81kgdysyCbSBfl4NXMkQec0TCyW2GJTlrQuGURBS61fUQs6_G1hg6EU-x9BqwccCJYgSpaj4EhDA9QppNMKxAPxgRmT4aXOrGhQpnZ_1JRzAHrMQS7ztbj44NqFH2Q",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJCZer5kBZ4joRnjUKEBICvD4",
+      "plus_code": {
+        "compound_code": "WR8X+R7 Colombo",
+        "global_code": "6JRXWR8X+R7"
+      },
+      "rating": 3.1,
+      "reference": "ChIJCZer5kBZ4joRnjUKEBICvD4",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 13
+    }
+  ],
+  "status": "OK"
+}
